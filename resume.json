@@ -1,0 +1,141 @@
+{
+  "basics": {
+    "name": "Ujjwal Ojha",
+    "label": "Web Developer",
+    "picture": "",
+    "email": "bring2uo@gmail.com",
+    "phone": "9841870323",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "Pepsicola",
+      "postalCode": "44600",
+      "city": "Kathmandu",
+      "countryCode": "NP",
+      "region": "Bagmati"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "ojhaujjwal",
+        "url": "https://twitter.com/ojhaujjwal"
+      },
+      {
+        "network": "Github",
+        "username": "ojhaujjwal",
+        "url": "https://github.com/ojhaujjwal"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Hrevert Technologies",
+      "position": "Web Developer",
+      "website": "https://hrevert.com",
+      "startDate": "2013-02-01",
+      "endDate": "2015-08-01",
+      "summary": "Hrevert is software Development Company which provides software solutions to enterprises. My responsibilities were:",
+      "highlights": [
+        "Developing application architecture",
+        "Coding Modules",
+        "Maintaining production server"
+      ]
+    },
+    {
+      "company": "Shandong Shunshihongye Investment Co. Limited",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-07-04",
+      "endDate": "2015-8-20",
+      "summary": "I worked as a Software Engineer on Volunteers collaboration platform.",
+      "highlights": []
+    },
+    {
+      "company": "Freelancing",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-09-01",
+      "endDate": "2016-06-01",
+      "summary": "I worked as a Software Engineer on multiple freelance projects. My responsibilities were:",
+      "highlights": [
+        "Developing REST APIs",
+        "Developing Single Page applications"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Capital College and Research Center",
+      "area": "Kathmandu",
+      "studyType": "Science",
+      "startDate": "2011-07-01",
+      "endDate": "2013-03-01",
+      "gpa": "85%",
+      "courses": []
+    },
+    {
+      "institution": "Tribhuvan University",
+      "area": "Kathamandu",
+      "studyType": "Bachelor",
+      "startDate": "2013-10-01",
+      "endDate": "2016-07-22",
+      "gpa": "ongoing",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "JavaScript",
+        "Angular"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "PHP",
+        "Node.js",
+        "Zend Framework",
+        "Symfony"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Nepali",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Intermediate "
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Football",
+        "Cricket"
+      ]
+    },
+    {
+      "name": "Hacking",
+      "keywords": [
+        "Trying new tools",
+        "Open source contribution"
+      ]
+    }
+  ],
+  "references": []
+}
