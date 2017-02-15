@@ -99,9 +99,9 @@
       "courses": []
     },
     {
-      "institution": "Tribhuvan University",
-      "area": "Kathamandu",
-      "studyType": "Bachelor",
+      "institution": "Orchid Intl. College(affiliated to TU)",
+      "area": "Kathmandu",
+      "studyType": "BSc. CSIT (7th semester running)",
       "startDate": "2013-10-01",
       "endDate": "Present",
       "gpa": "ongoing",
@@ -117,7 +117,7 @@
       "keywords": [
         "HTML",
         "JavaScript",
-        "Angular",
+        "Angular1",
         "Vue.js"
       ]
     },
