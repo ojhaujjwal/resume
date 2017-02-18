@@ -1,0 +1,9 @@
+language: nodejs
+node_js:
+- stable
+
+script: bash ./deploy.sh
+env:
+  global:
+  - ENCRYPTION_LABEL: "6ac28b556286"
+  - COMMIT_AUTHOR_EMAIL: "bring2uo@gmail.com"
