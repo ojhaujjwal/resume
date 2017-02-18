@@ -5,7 +5,6 @@
     "picture": "",
     "email": "bring2uo@gmail.com",
     "phone": "9841870323",
-    "website": "",
     "summary": "I am a Web Application Developer with hands on experience in PHP, JavaScript, Node.js etc in the last 4 years. Recently, I have also started on DevOps with some experience on Docker, Ansible, Capistrano etc. I have recently started following Agile practices in software development life cycle. I also have fair experience working with SPAs in Angular 1 and Vue.js. These days, I have been exploring and practicing Microservices architecture in SaaS based applications.",
     "location": {
       "address": "Pepsicola",
@@ -77,8 +76,7 @@
       "highlights": [
         "Practice continuous delivery and Agile to deliver software as quickly as possible to the end user.",
         "Develop microservices to build scalable Saas systems.",
-        "Lead a team of developers together to deliver software solutions.",
-        ""
+        "Lead a team of developers together to deliver software solutions."
       ]
     }
   ],
