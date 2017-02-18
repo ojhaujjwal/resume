@@ -7,6 +7,7 @@ TARGET_BRANCH="gh-pages"
 function buildResume {
   npm install -g resume-cli
   npm install -g jsonresume-theme-paper
+  cp ../resume.json ./resume.json
   resume export --theme paper resume.pdf
   resume export index.html
 }
@@ -27,6 +28,13 @@ SHA=`git rev-parse --verify HEAD`
 git clone $REPO out
 cd out
 git checkout $TARGET_BRANCH || git checkout --orphan $TARGET_BRANCH
+cd ..
+
+# Clean out existing contents
+rm -rf out/**/* || exit 0
+
+# Now let's go have some fun with the cloned repo
+cd out
 
 # Run our compile script
 buildResume
