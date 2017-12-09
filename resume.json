@@ -5,7 +5,7 @@
     "picture": "",
     "email": "bring2uo@gmail.com",
     "phone": "9841870323",
-    "summary": "I am a Web Application Developer with hands on experience in PHP, JavaScript, Node.js etc in the last 4 years. Recently, I have also started on DevOps with some experience on Docker, Ansible, Capistrano etc. I have recently started following Agile practices in software development life cycle. I also have fair experience working with SPAs in Angular 1 and Vue.js. These days, I have been exploring and practicing Microservices architecture in SaaS based applications.",
+    "summary": "I am a Web Application Developer with hands on experience in PHP, JavaScript, Node.js etc in the last 4 years. Recently, I have also started on DevOps with some experience on Docker, Ansible, Capistrano etc. I have recently started following Agile practices in software development life cycle. I also have fair experience working with SPAs in Angular 1 and Vue.js. I am also highly interested on Microservices architecture. These days, I have been exploring Domain Driven Design.",
     "location": {
       "address": "Pepsicola",
       "postalCode": "44600",
@@ -35,7 +35,7 @@
     {
       "company": "Hrevert Technologies",
       "position": "Web Developer",
-      "website": "https://hrevert.com",
+      "website": "http://hrevert.com",
       "startDate": "2013-02-01",
       "endDate": "2015-08-01",
       "summary": "Hrevert is software Development Company which provides software solutions to enterprises.",
@@ -71,12 +71,24 @@
       "position": "Software Engineer",
       "website": "http://nepal.introcept.co/",
       "startDate": "2016-08-22",
-      "endDate": "Present",
+      "endDate": "2016-09-26",
       "summary": "IntroCept is a startup company established with a vision to innovate and deliver solutions to the existing problems with a strong belief that their team and unique business culture can make it possible. ",
       "highlights": [
         "Practice continuous delivery and Agile to deliver software as quickly as possible to the end user.",
         "Develop microservices to build scalable Saas systems.",
         "Lead a team of developers together to deliver software solutions."
+      ]
+    },
+    {
+      "company": "Logpoint Nepal",
+      "position": "Software Engineer",
+      "website": "http://logpoint.com/",
+      "startDate": "2016-09-03",
+      "endDate": "Present",
+      "summary": "LogPoint is a global security analytics company founded in Denmark in 2008 and focussing on SIEM solution (Security Information and Event Management) for log management and advanced analytics.",
+      "highlights": [
+        "Create a bridging API which connects one system to multiple remote systems",
+        "Interact with other team of developers for API compatibility and smoothely develop new features maintaining compatibility."
       ]
     }
   ],
@@ -92,9 +104,9 @@
       "courses": []
     },
     {
-      "institution": "Orchid Intl. College(affiliated to TU)",
+      "institution": "Orchid Intl. College(affiliated to Tribhuvan Univertisy)",
       "area": "Kathmandu",
-      "studyType": "BSc. CSIT (7th semester running)",
+      "studyType": "BSc. CSIT (8th semester running)",
       "startDate": "2013-10-01",
       "endDate": "Present",
       "gpa": "ongoing",
