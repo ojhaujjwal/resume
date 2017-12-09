@@ -33,37 +33,15 @@
   },
   "work": [
     {
-      "company": "Hrevert Technologies",
-      "position": "Web Developer",
-      "website": "http://hrevert.com",
-      "startDate": "2013-02-01",
-      "endDate": "2015-08-01",
-      "summary": "Hrevert is software Development Company which provides software solutions to enterprises.",
+      "company": "Logpoint Nepal",
+      "position": "Software Engineer",
+      "website": "http://logpoint.com/",
+      "startDate": "2016-09-03",
+      "endDate": "Present",
+      "summary": "LogPoint is a global security analytics company founded in Denmark in 2008 and focussing on SIEM solution (Security Information and Event Management) for log management and advanced analytics.",
       "highlights": [
-        "Developing application architecture",
-        "Coding Modules",
-        "Maintaining production server"
-      ]
-    },
-    {
-      "company": "Shandong Shunshihongye Investment Co. Limited",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-07-04",
-      "endDate": "2015-08-20",
-      "summary": "I worked as a Software Engineer on Volunteers collaboration platform.",
-      "highlights": []
-    },
-    {
-      "company": "Freelancing",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-09-01",
-      "endDate": "2016-06-01",
-      "summary": "I worked as a Software Engineer on multiple freelance projects.",
-      "highlights": [
-        "Developing REST APIs",
-        "Developing Single Page applications"
+        "Create a bridging API which connects one system to multiple remote systems",
+        "Interact with other team of developers for API compatibility and smoothely develop new features maintaining compatibility."
       ]
     },
     {
@@ -80,29 +58,42 @@
       ]
     },
     {
-      "company": "Logpoint Nepal",
-      "position": "Software Engineer",
-      "website": "http://logpoint.com/",
-      "startDate": "2016-09-03",
-      "endDate": "Present",
-      "summary": "LogPoint is a global security analytics company founded in Denmark in 2008 and focussing on SIEM solution (Security Information and Event Management) for log management and advanced analytics.",
+      "company": "Freelancing",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-09-01",
+      "endDate": "2016-06-01",
+      "summary": "I worked as a Software Engineer on multiple freelance projects.",
       "highlights": [
-        "Create a bridging API which connects one system to multiple remote systems",
-        "Interact with other team of developers for API compatibility and smoothely develop new features maintaining compatibility."
+        "Developing REST APIs",
+        "Developing Single Page applications"
+      ]
+    },
+    {
+      "company": "Shandong Shunshihongye Investment Co. Limited",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2015-07-04",
+      "endDate": "2015-08-20",
+      "summary": "I worked as a Software Engineer on Volunteers collaboration platform.",
+      "highlights": []
+    },
+    {
+      "company": "Hrevert Technologies",
+      "position": "Web Developer",
+      "website": "http://hrevert.com",
+      "startDate": "2013-02-01",
+      "endDate": "2015-08-01",
+      "summary": "Hrevert is software Development Company which provides software solutions to enterprises.",
+      "highlights": [
+        "Developing application architecture",
+        "Coding Modules",
+        "Maintaining production server"
       ]
     }
   ],
   "volunteer": [],
   "education": [
-    {
-      "institution": "Capital College and Research Center",
-      "area": "Kathmandu",
-      "studyType": "Science",
-      "startDate": "2011-07-01",
-      "endDate": "2013-03-01",
-      "gpa": "85%",
-      "courses": []
-    },
     {
       "institution": "Orchid Intl. College(affiliated to Tribhuvan Univertisy)",
       "area": "Kathmandu",
@@ -110,6 +101,15 @@
       "startDate": "2013-10-01",
       "endDate": "Present",
       "gpa": "ongoing",
+      "courses": []
+    },
+    {
+      "institution": "Capital College and Research Center",
+      "area": "Kathmandu",
+      "studyType": "Science",
+      "startDate": "2011-07-01",
+      "endDate": "2013-03-01",
+      "gpa": "85%",
       "courses": []
     }
   ],
