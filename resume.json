@@ -133,8 +133,10 @@
         "PHP",
         "Node.js",
         "Zend Framework",
-        "Laravel",
-        "DevOps"
+        "Python",
+        "DevOps",
+        "Terraform",
+        "Ansible"
       ]
     }
   ],
