@@ -1,29 +1,22 @@
 {
   "basics": {
     "name": "Ujjwal Ojha",
-    "label": "Software Developer",
+    "label": "Kathmandu, Nepal",
     "picture": "",
     "email": "me@ujjwalojha.com.np",
     "phone": "+9779841870323",
-    "summary": "I am a Web Application Developer with hands on experience in PHP, JavaScript, Node.js etc in the last 4 years. Recently, I have also started on DevOps with some experience on Docker, Ansible, Capistrano etc. I have recently started following Agile practices in software development life cycle. I also have fair experience working with SPAs in Angular 1 and Vue.js. I am also highly interested on Microservices architecture. These days, I have been exploring Domain Driven Design.",
-    "location": {
-      "address": "Purano Sinamangal",
-      "postalCode": "44600",
-      "city": "Kathmandu",
-      "countryCode": "NP",
-      "region": "Bagmati"
-    },
+    "summary": "I am a Software Developer with hands on experience in PHP, JavaScript, Node.js etc in the last 5 years. Recently, I have also started on DevOps with some experience on Docker, Ansible, Capistrano etc. I have recently started following Agile practices in software development life cycle. I also have fair experience working with SPAs in Angular 1 and Vue.js. I am also highly interested on Microservices architecture. These days, I have been exploring Microservices and Domain Driven Design.",
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "ojhaujjwal",
-        "url": "https://twitter.com/ojhaujjwal"
-      },
       {
         "network": "Github",
         "username": "ojhaujjwal",
         "url": "https://github.com/ojhaujjwal"
       },
+      {
+        "network": "Medium",
+        "username": "ojhaujjwal",
+        "url": "https://medium.com/@ojhaujjwal"
+      },      
       {
         "network": "Linkedin",
         "username": "ujjwal-ojha",
@@ -33,15 +26,29 @@
   },
   "work": [
     {
+      "company": "SaveToDrive",
+      "position": "Software Engineer",
+      "website": "https://savetodrive.net/",
+      "startDate": "2018-02-06",
+      "endDate": "Present",
+      "summary": "Working part-time as a Software Engineer, Software Architect and DevOps Engineer.",
+      "highlights": [
+        "Split monolith webapp to microservices and scaled microservices independently.",
+        "Created Infrastructure as code (IaC): provisioning and configuration management with Terraform and Ansible for microservices",
+        "Create development environment tooling for microservices with Docker."
+      ]
+    },
+    {
       "company": "Logpoint Nepal",
       "position": "Software Engineer",
       "website": "http://logpoint.com/",
-      "startDate": "2016-09-03",
+      "startDate": "2017-10-03",
       "endDate": "Present",
-      "summary": "LogPoint is a global security analytics company founded in Denmark in 2008 and focussing on SIEM solution (Security Information and Event Management) for log management and advanced analytics.",
+      "summary": "Architectured and implemented distributed system for Managed security service provider (MSSP).",
       "highlights": [
-        "Create a bridging API which connects one system to multiple remote systems",
-        "Interact with other team of developers for API compatibility and smoothely develop new features maintaining compatibility."
+        "Created backend engine integrating with Zookeper which connects one system to multiple remote systems in distributed architecture.",
+        "Interacted with other team of developers for API compatibility and smoothely develop new features maintaining compatibility.",
+        "Created backend engine integrating with HDFS for file storage in distributed system."
       ]
     },
     {
@@ -50,41 +57,34 @@
       "website": "http://nepal.introcept.co/",
       "startDate": "2016-08-22",
       "endDate": "2017-09-26",
-      "summary": "IntroCept is a startup company established with a vision to innovate and deliver solutions to the existing problems with a strong belief that their team and unique business culture can make it possible. ",
+      "summary": "Architectured a distributed web application system(SaaS). Lead a team of developers together to deliver business goals. Practice continuous delivery and Agile to deliver software as quickly as possible to the end user.",
       "highlights": [
-        "Practice continuous delivery and Agile to deliver software as quickly as possible to the end user.",
-        "Develop microservices to build scalable Saas systems.",
-        "Lead a team of developers together to deliver software solutions."
+        "Develop microservices to build scalable SaaS systems.",
+        "Formulate a plan to refactor a legacy system using old technologies to new technologies and implemented it in a running system.",
+        "Automate microservices deployment.",
+        "Create internal systems for smoothening/simplifying internal processes."
       ]
     },
     {
       "company": "Freelancing",
       "position": "Web Developer",
       "website": "",
-      "startDate": "2015-09-01",
-      "endDate": "2016-06-01",
+      "startDate": "2015-07-04",
+      "endDate": "2016-08-01",
       "summary": "I worked as a Software Engineer on multiple freelance projects.",
       "highlights": [
         "Developing REST APIs",
+        "Incorporate development best practices in application to create maintainable systems.",
+        "Perform optimizations in backend to reduce application response time and reduce server cost in higher traffic.",
         "Developing Single Page applications"
       ]
-    },
-    {
-      "company": "Shandong Shunshihongye Investment Co. Limited",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-07-04",
-      "endDate": "2015-08-20",
-      "summary": "I worked as a Software Engineer on Volunteers collaboration platform.",
-      "highlights": []
     },
     {
       "company": "Hrevert Technologies",
       "position": "Web Developer",
       "website": "http://hrevert.com",
-      "startDate": "2013-02-01",
+      "startDate": "2013-05-15",
       "endDate": "2015-08-01",
-      "summary": "Hrevert is software Development Company which provides software solutions to enterprises.",
       "highlights": [
         "Developing application architecture",
         "Coding Modules",
@@ -97,25 +97,28 @@
     {
       "institution": "Orchid Intl. College(affiliated to Tribhuvan Univertisy)",
       "area": "Kathmandu",
-      "studyType": "BSc. CSIT (8th semester running)",
+      "studyType": "BSc. CSIT",
       "startDate": "2013-10-01",
-      "endDate": "Present",
-      "gpa": "ongoing",
-      "courses": []
-    },
-    {
-      "institution": "Capital College and Research Center",
-      "area": "Kathmandu",
-      "studyType": "Science",
-      "startDate": "2011-07-01",
-      "endDate": "2013-03-01",
-      "gpa": "85%",
+      "endDate": "2018-02-04",
       "courses": []
     }
   ],
   "awards": [],
   "publications": [],
   "skills": [
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "PHP",
+        "Node.js",
+        "Python",
+        "Docker",
+        "DevOps",
+        "Terraform",
+        "Ansible"
+      ]
+    },
     {
       "name": "Frontend",
       "level": "",
@@ -125,50 +128,7 @@
         "Angular1",
         "Vue.js"
       ]
-    },
-    {
-      "name": "Backend",
-      "level": "",
-      "keywords": [
-        "PHP",
-        "Node.js",
-        "Zend Framework",
-        "Python",
-        "DevOps",
-        "Terraform",
-        "Ansible"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Nepali",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    },
-    {
-      "language": "Hindi",
-      "fluency": "Intermediate "
-    }
-  ],
-  "interests": [
-    {
-      "name": "Sports",
-      "keywords": [
-        "Football",
-        "Cricket"
-      ]
-    },
-    {
-      "name": "Hacking",
-      "keywords": [
-        "Trying new tools",
-        "Open source contribution"
-      ]
-    }
+    }    
   ],
   "references": []
 }
