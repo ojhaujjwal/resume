@@ -5,5 +5,7 @@ node_js:
 script: bash ./deploy.sh
 env:
   global:
-  - ENCRYPTION_LABEL: "6ac28b556286"
   - COMMIT_AUTHOR_EMAIL: "bring2uo@gmail.com"
+
+before_script:
+  - openssl aes-256-cbc -K $encrypted_a0b3eb6c8e1d_key -iv $encrypted_a0b3eb6c8e1d_iv -in deploy_key.enc -out ./deploy_key -d
