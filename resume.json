@@ -1,134 +1,119 @@
 {
-  "basics": {
-    "name": "Ujjwal Ojha",
-    "label": "Kathmandu, Nepal",
-    "picture": "",
-    "email": "me@ujjwalojha.com.np",
-    "phone": "+9779841870323",
-    "summary": "I am a Software Developer with hands on experience in PHP, JavaScript, Node.js etc in the last 5 years. Recently, I have also started on DevOps with some experience on Docker, Ansible, Capistrano etc. I have recently started following Agile practices in software development life cycle. I also have fair experience working with SPAs in Angular 1 and Vue.js. I am also highly interested on Microservices architecture. These days, I have been exploring Microservices and Domain Driven Design.",
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "ojhaujjwal",
-        "url": "https://github.com/ojhaujjwal"
-      },
-      {
-        "network": "Medium",
-        "username": "ojhaujjwal",
-        "url": "https://medium.com/@ojhaujjwal"
-      },      
-      {
-        "network": "Linkedin",
-        "username": "ujjwal-ojha",
-        "url": "https://www.linkedin.com/in/ujjwal-ojha-68218474"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "SaveToDrive",
-      "position": "Software Engineer",
-      "website": "https://savetodrive.net/",
-      "startDate": "2018-02-06",
-      "endDate": "Present",
-      "summary": "Working part-time as a Software Engineer, Software Architect and DevOps Engineer.",
-      "highlights": [
-        "Split monolith webapp to microservices and scaled microservices independently.",
-        "Created Infrastructure as code (IaC): provisioning and configuration management with Terraform and Ansible for microservices",
-        "Create development environment tooling for microservices with Docker."
-      ]
-    },
-    {
-      "company": "Logpoint Nepal",
-      "position": "Software Engineer",
-      "website": "http://logpoint.com/",
-      "startDate": "2017-10-03",
-      "endDate": "Present",
-      "summary": "Architectured and implemented distributed system for Managed security service provider (MSSP).",
-      "highlights": [
-        "Created backend engine integrating with Zookeper which connects one system to multiple remote systems in distributed architecture.",
-        "Interacted with other team of developers for API compatibility and smoothely develop new features maintaining compatibility.",
-        "Created backend engine integrating with HDFS for file storage in distributed system."
-      ]
-    },
-    {
-      "company": "IntroCept Nepal",
-      "position": "Software Engineer",
-      "website": "http://nepal.introcept.co/",
-      "startDate": "2016-08-22",
-      "endDate": "2017-09-26",
-      "summary": "Architectured a distributed web application system(SaaS). Lead a team of developers together to deliver business goals. Practice continuous delivery and Agile to deliver software as quickly as possible to the end user.",
-      "highlights": [
-        "Develop microservices to build scalable SaaS systems.",
-        "Formulate a plan to refactor a legacy system using old technologies to new technologies and implemented it in a running system.",
-        "Automate microservices deployment.",
-        "Create internal systems for smoothening/simplifying internal processes."
-      ]
-    },
-    {
-      "company": "Freelancing",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-07-04",
-      "endDate": "2016-08-01",
-      "summary": "I worked as a Software Engineer on multiple freelance projects.",
-      "highlights": [
-        "Developing REST APIs",
-        "Incorporate development best practices in application to create maintainable systems.",
-        "Perform optimizations in backend to reduce application response time and reduce server cost in higher traffic.",
-        "Developing Single Page applications"
-      ]
-    },
-    {
-      "company": "Hrevert Technologies",
-      "position": "Web Developer",
-      "website": "http://hrevert.com",
-      "startDate": "2013-05-15",
-      "endDate": "2015-08-01",
-      "highlights": [
-        "Developing application architecture",
-        "Coding Modules",
-        "Maintaining production server"
-      ]
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Orchid Intl. College(affiliated to Tribhuvan Univertisy)",
-      "area": "Kathmandu",
-      "studyType": "BSc. CSIT",
-      "startDate": "2013-10-01",
-      "endDate": "2018-02-04",
-      "courses": []
-    }
-  ],
-  "awards": [],
-  "publications": [],
-  "skills": [
-    {
-      "name": "Backend",
-      "level": "",
-      "keywords": [
-        "PHP",
-        "Node.js",
-        "Python",
-        "Docker",
-        "DevOps",
-        "Terraform",
-        "Ansible"
-      ]
-    },
-    {
-      "name": "Frontend",
-      "level": "",
-      "keywords": [
-        "HTML",
-        "JavaScript",
-        "Angular1",
-        "Vue.js"
-      ]
-    }    
-  ],
-  "references": []
+	"basics": {
+		"name": "Ujjwal Ojha",
+		"label": "Kathmandu, Nepal",
+		"picture": "",
+		"email": "me@ujjwalojha.com.np",
+		"phone": "+9779841870323",
+		"summary": " I am a FullStack Software Developer, mostly focussed on Backend, with some experience on Ops. I am a big advocator of Software Maintainability and I am very influential about applying SOLID principles and design patterns while designing software systems. I like to design microservices applying best practices for distributed system. I am also a big fan of Domain Driven Design and CQRS and have some experience introducing these techniques in new microservices. I also like to call myself a pragmatic when engineering systems who is able to balance between what looks pretty on paper and what is effective on real world.",
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "ojhaujjwal",
+				"url": "https://github.com/ojhaujjwal"
+			},
+			{
+				"network": "Medium",
+				"username": "ojhaujjwal",
+				"url": "https://medium.com/@ojhaujjwal"
+			},
+			{
+				"network": "Linkedin",
+				"username": "ujjwal-ojha",
+				"url": "https://www.linkedin.com/in/ujjwal-ojha"
+			}
+		]
+	},
+	"work": [
+		{
+			"company": "The Iconic",
+			"position": "Software Engineer",
+			"website": "https://theiconic.com.au/",
+			"startDate": "2019-04-09",
+			"endDate": "Present",
+			"summary": "Working as a Full stack Engineer mostly on Microservices architecture.",
+			"highlights": [
+				"Handle smooth migration of third party system with zero downtime on production system",
+				"Re-engineer microservice to handle more traffic",
+				"Introduce Domain Driven Design and CQRS to architecture a new microservice.",
+				"Architecture fallback based strategy for microservice",
+				"Brainstorming new product ideas and implement A/B testing with the team"
+			]
+		},
+		{
+			"company": "Logpoint Nepal",
+			"position": "Software Engineer",
+			"website": "http://logpoint.com/",
+			"startDate": "2017-10-03",
+			"endDate": "2019-03-29",
+			"summary": "Worked on distributed system for Managed security service provider (MSSP).",
+			"highlights": [
+				"Interacted with other team of developers for API compatibility and smoothly develop new features maintaining compatibility.",
+				"Engineer an event based system to scale the distributed system of MSSP asynchronously.",
+				"Engineer a system for MSSP to be able to handle multiple version of a SIEM system."
+			]
+		},
+		{
+			"company": "IntroCept Nepal",
+			"position": "Software Engineer",
+			"website": "http://nepal.introcept.co/",
+			"startDate": "2016-08-22",
+			"endDate": "2017-09-26",
+			"summary": "Architectured a distributed web application system(SaaS). Lead a team of developers together to deliver business goals. Practice continuous delivery and Agile to deliver software as quickly as possible to the end user.",
+			"highlights": [
+				"Develop microservices to build scalable SaaS systems.",
+				"Formulate a plan to refactor a legacy system using old technologies to new technologies and implemented it in a running system.",
+				"Automate microservices deployment.",
+				"Create internal systems for smoothening/simplifying internal processes."
+			]
+		},
+		{
+			"company": "Freelancing",
+			"position": "Software Developer",
+			"website": "",
+			"startDate": "2015-07-04",
+			"endDate": "2016-08-01",
+			"summary": "I worked as a Software Engineer on multiple freelance projects.",
+			"highlights": [
+				"Developing REST APIs",
+				"Incorporate development best practices in application to create maintainable systems.",
+				"Perform optimizations in backend to reduce application response time and reduce server cost in higher traffic.",
+				"Developing Single Page applications"
+			]
+		},
+		{
+			"company": "Hrevert Technologies",
+			"position": "Software Developer",
+			"website": "http://hrevert.com",
+			"startDate": "2013-05-15",
+			"endDate": "2015-08-01",
+			"highlights": [ "Developing application architecture", "Coding Modules", "Maintaining production server" ]
+		}
+	],
+	"volunteer": [],
+	"education": [
+		{
+			"institution": "Orchid Intl. College(affiliated to Tribhuvan Univertisy)",
+			"area": "Kathmandu",
+			"studyType": "BSc. CSIT",
+			"startDate": "2013-10-01",
+			"endDate": "2018-02-04",
+			"courses": []
+		}
+	],
+	"awards": [],
+	"publications": [],
+	"skills": [
+		{
+			"name": "FullStack",
+			"level": "",
+			"keywords": [ "PHP", "JavaScript", "Node.js", "Python" ]
+		},
+		{
+			"name": "Ops",
+			"level": "",
+			"keywords": [ "Docker", "DevOps", "SRE", "Terraform", "Kurbernetes", "GCP" ]
+		}
+	],
+	"references": []
 }
