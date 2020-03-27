@@ -5,8 +5,8 @@ SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 
 function buildResume {
-  npm install -g resume-cli@0.4.19
-  npm install -g jsonresume-theme-paper@0.3.5
+  npm install -g resume-cli@1.2.7
+  npm install -g jsonresume-theme-paper-v2@0.0.1
   cp ../resume.json ./resume.json
   resume export --theme paper resume.pdf
   resume export index.html
