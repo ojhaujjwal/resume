@@ -3,44 +3,58 @@
     "name": "Ujjwal Ojha",
     "picture": "",
     "email": "me@ujjwalojha.com.np",
-    "phone": "+9779841870323",
-    "summary": " I am a FullStack Software Developer, mostly focussed on Backend, with some experience on Ops. I am a big advocator of Software Maintainability and I am very influential about applying SOLID principles and design patterns while designing software systems. I like to design microservices applying best practices for distributed system. I am also a big fan of Domain Driven Design and CQRS and have some experience introducing these techniques in new microservices. I also like to call myself a pragmatic when engineering systems who is able to balance between what looks pretty on paper and what is effective on real world.",
-    "profiles": [
-      {
-        "network": "Github",
-        "username": "ojhaujjwal",
-        "url": "https://github.com/ojhaujjwal"
-      },
-      {
-        "network": "Medium",
-        "username": "ojhaujjwal",
-        "url": "https://medium.com/@ojhaujjwal"
-      },
-      {
-        "network": "Linkedin",
-        "username": "ujjwal-ojha",
-        "url": "https://www.linkedin.com/in/ujjwal-ojha"
-      }
-    ]
+    "phone": "+61411440539",
+    "summary": "I am a Product-Minded Software Engineer who is extremely passionate about providing value while designing systems with long-term vision in mind."
   },
+  "profiles": [
+    {
+      "network": "Github",
+      "username": "ojhaujjwal",
+      "url": "https://github.com/ojhaujjwal"
+    },
+    {
+      "network": "Medium",
+      "username": "ojhaujjwal",
+      "url": "https://medium.com/@ojhaujjwal"
+    },
+    {
+      "network": "Linkedin",
+      "username": "ujjwal-ojha",
+      "url": "https://www.linkedin.com/in/ujjwal-ojha"
+    }
+  ],
   "work": [
+    {
+      "company": "Shippit",
+      "position": "Senior Software Engineer",
+      "website": "https://www.shippit.com/",
+      "startDate": "2021-09-15",
+      "summary": "Solving challenging problems in courier/shipping industry using technology",
+      "highlights": [
+       "Managed to lead and deliver 3 big releases of a new cutting-edge courier recommendation project in the shipping industry",
+       "Designing and architecturing system for complex business requirements",
+       "Mentor other engineers and review code of other engineers to ensure software quality",
+       "Lead feature implementation in backend using Node and TypeScript and in frontend using React",
+       "Improve observability/monitoring capabilities of existing system to eliminate downtime/broken features in production"
+      ]
+    },
     {
       "company": "The Iconic",
       "position": "Software Engineer",
       "website": "https://theiconic.com.au/",
       "startDate": "2019-04-09",
-      "summary": "Working as a Full stack Engineer mostly on Microservices architecture.",
+      "endDate": "2021-09-14",
+      "summary": "Working as a Software Engineer mostly on Microservices architecture.",
       "highlights": [
-        "Handle smooth migration of third party system with zero downtime on production system",
-        "Re-engineer microservice to handle more traffic",
-        "Introduce Domain Driven Design and CQRS to architecture a new microservice.",
-        "Re-engineer microservice to handle more traffic and Architecture fallback based strategy for microservice",
-        "Brainstorming new product ideas and implement A/B testing with the team",
-        "Being a part of on-call team roaster responsbile for co-ordinating issues, troubleshooting and preparing incident reports."
+        "Handle smooth migration of third party system with zero downtime on user base.",
+        "Re-engineer PHP/JS microservices to handle more traffic.",
+        "Introduce Domain Driven Design and CQRS to architecture a new php based microservice.",
+        "Being a part of on-call team roaster responsbile for co-ordinating issues, troubleshooting outages and preparing incident reports for website outages.",
+        "Automate end-to-end CI build process and deployment for new services in k8s."
       ]
     },
     {
-      "company": "Logpoint Nepal",
+      "company": "Logpoint",
       "position": "Software Engineer",
       "website": "http://logpoint.com/",
       "startDate": "2017-10-03",
@@ -49,7 +63,8 @@
       "highlights": [
         "Interacted with other team of developers for API compatibility and smoothly develop new features maintaining compatibility.",
         "Engineer an event based system to scale the distributed system of MSSP asynchronously.",
-        "Engineer a system for MSSP to be able to handle multiple version of a SIEM system."
+        "Engineer a system for MSSP to be able to handle multiple version of a SIEM system.",
+        "Making use of background job scaling tool like RabbitMQ to design certain features."
       ]
     },
     {
@@ -67,8 +82,8 @@
       ]
     },
     {
-      "company": "Freelancing",
-      "position": "Software Developer",
+      "company": "Yiwii LLC",
+      "position": "Software Engineer",
       "website": "",
       "startDate": "2015-08-04",
       "endDate": "2016-08-19",
@@ -93,7 +108,7 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "Orchid Intl. College(affiliated to Tribhuvan Univertisy)",
+      "institution": "Tribhuvan University",
       "area": "Kathmandu",
       "studyType": "BSc. CSIT",
       "startDate": "2013-10-01",
@@ -107,7 +122,7 @@
     {
       "name": "Languages",
       "level": "",
-      "keywords": [ "PHP", "JavaScript", "Node.js", "Python" ]
+      "keywords": [ "JavaScript", "TypeScript", "Node", "React"]
     },
     {
       "name": "Ops",
