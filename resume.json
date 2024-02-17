@@ -31,11 +31,12 @@
       "startDate": "2021-09-15",
       "summary": "Solving challenging problems in courier/shipping industry using technology",
       "highlights": [
-       "Managed to lead and deliver 3 big releases of a new cutting-edge courier recommendation project in the shipping industry",
-       "Designing and architecturing system for complex business requirements",
-       "Mentor other engineers and review code of other engineers to ensure software quality",
-       "Lead feature implementation in backend using Node and TypeScript and in frontend using React",
-       "Improve observability/monitoring capabilities of existing system to eliminate downtime/broken features in production"
+       "Lead and deliver multiple big releases of a new cutting-edge courier recommendation project in the shipping industry",
+       "Team up with PM and UX to strategize new revenue-generating features while also improving the scalability of the existing system",
+       "Performed big upgrades/migrations of existing systems to new technologies with close to zero downtime",
+       "Designing and architecturing system (based on microservices) for complex business requirements while also mentoring junior enginers on best practices",
+       "Improve observability/monitoring capabilities of existing system to eliminate downtime/broken features in production",
+       "Influence the whole engineering team to adopt new frontend monitoring capabilities for monitoring deployment and feature flag rollout"
       ]
     },
     {
@@ -46,11 +47,14 @@
       "endDate": "2021-09-14",
       "summary": "Working as a Software Engineer mostly on Microservices architecture.",
       "highlights": [
-        "Handle smooth migration of third party system with zero downtime on user base.",
-        "Re-engineer PHP/JS microservices to handle more traffic.",
+        "Migrated 7 million users from one CRM to another with low hiccups.",
+        "Migrated millions of products from one Image Recognition system to another system while powering Visually Similar Products feature",
+        "Discovered new product feature to increase ABV and did A/B testing to validate the hypothesis successfully.",
+        "Revamp and re-design a very old Tax Invoice PDF generation system to new design following all compliance requirements.",
+        "Re-engineer PHP and Node microservices to handle more traffic.",
         "Introduce Domain Driven Design and CQRS to architecture a new php based microservice.",
         "Being a part of on-call team roaster responsbile for co-ordinating issues, troubleshooting outages and preparing incident reports for website outages.",
-        "Automate end-to-end CI build process and deployment for new services in k8s."
+        "Automate end-to-end CI build process and deployment for new services in kubernetes."
       ]
     },
     {
@@ -89,10 +93,9 @@
       "endDate": "2016-08-19",
       "summary": "I worked as a Software Engineer on multiple freelance projects.",
       "highlights": [
-        "Developing REST APIs and Single Page applications.",
+        "Developing REST APIs and Single Page application to power sports match scheduling system.",
         "Incorporate software best practices to create maintainable systems.",
-        "Perform optimizations in backend to reduce application response time and reduce server cost in higher traffic.",
-        "Developing Single Page applications"
+        "Perform optimizations in backend to reduce application response time and reduce server cost in higher traffic."
       ]
     },
     {
@@ -102,7 +105,10 @@
       "startDate": "2013-05-15",
       "endDate": "2015-08-01",
       "summary": "I worked mostly on PHP backends and maintained basic production servers.",
-      "highlights": []
+      "highlights": [
+        "Created a energy management and monitoring system for monitoring energy consumption/production by integrating to energy meters.",
+        "Worked on project management system to create projects and divide them to tasks and assign them to employees."
+      ]
     }
   ],
   "volunteer": [],
@@ -110,7 +116,7 @@
     {
       "institution": "Tribhuvan University",
       "area": "Kathmandu",
-      "studyType": "BSc. CSIT",
+      "studyType": "Bachelor of Science in Computer Science and Information Technology",
       "startDate": "2013-10-01",
       "endDate": "2017-12-20",
       "courses": []
@@ -122,7 +128,7 @@
     {
       "name": "Languages",
       "level": "",
-      "keywords": [ "JavaScript", "TypeScript", "Node", "React"]
+      "keywords": [ "TypeScript/JavaScript", "Node", "React", "PHP", "Ruby", "Python" ]
     },
     {
       "name": "Ops",
