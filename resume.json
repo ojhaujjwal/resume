@@ -33,7 +33,7 @@
       "highlights": [
        "Lead and deliver multiple big releases of a new cutting-edge courier recommendation project in the shipping industry",
        "Team up with PM and UX to strategize new revenue-generating features while also improving the scalability of the existing system",
-       "Performed big upgrades/migrations of existing systems to new technologies with close to zero downtime",
+       "Performed critical upgrades/migrations of existing systems to new technologies with close to zero downtime",
        "Designing and architecturing system (based on microservices) for complex business requirements while also mentoring junior enginers on best practices",
        "Improve observability/monitoring capabilities of existing system to eliminate downtime/broken features in production",
        "Influence the whole engineering team to adopt new frontend monitoring capabilities for monitoring deployment and feature flag rollout"
@@ -74,14 +74,13 @@
     {
       "company": "IntroCept Nepal",
       "position": "Software Engineer",
-      "website": "http://nepal.introcept.co/",
+      "website": "",
       "startDate": "2016-08-22",
       "endDate": "2017-09-26",
       "summary": "Architectured a distributed web application system(SaaS). Lead a team of developers together to deliver business goals. Practice continuous delivery and Agile to deliver software as quickly as possible to the end user.",
       "highlights": [
-        "Develop microservices to build scalable SaaS systems.",
+        "Automate microservices deployment to build scalable SaaS systems.",
         "Formulate a plan to refactor a legacy system using old technologies to new technologies and implemented it in a running system.",
-        "Automate microservices deployment.",
         "Create internal systems for smoothening/simplifying internal processes."
       ]
     },
