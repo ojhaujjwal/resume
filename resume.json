@@ -26,9 +26,18 @@
   "work": [
     {
       "company": "Shippit",
-      "position": "Senior Software Engineer",
+      "position": "Squad Lead - Software Engineer",
+      "website": "https://www.shippit.com/",
+      "startDate": "2023-08-15",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Shippit",
+      "position": "Squad Software Engineer",
       "website": "https://www.shippit.com/",
       "startDate": "2021-09-15",
+      "endDate": "2023-08-15",
       "summary": "Solving challenging problems in courier/shipping industry using technology",
       "highlights": [
        "Lead and deliver multiple big releases of a new cutting-edge courier recommendation project in the shipping industry",
